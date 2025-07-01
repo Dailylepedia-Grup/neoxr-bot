@@ -11,9 +11,9 @@ exports.run = {
          number: env.owner,
          about: 'Owner & Creator'
       }], m, {
-         org: 'Neoxr Network',
-         website: 'https://api.neoxr.my.id',
-         email: 'contact@neoxr.my.id'
+         org: 'Dailylepedia Network',
+         website: 'https://dailylepedia.com',
+         email: 'contact@dailylepedia.com'
       })
    },
    error: false,

@@ -11,7 +11,7 @@ exports.run = {
    }) => {
       try {
          let setting = global.db.setting
-         if (!text) return client.reply(m.chat, Func.example(isPrefix, command, 'Sticker by | @neoxrs'), m)
+         if (!text) return client.reply(m.chat, Func.example(isPrefix, command, 'Sticker by | @Dailylepedia Asisstant'), m)
          let [packname, ...author] = text.split`|`
          author = (author || []).join`|`
          setting.sk_pack = packname || ''
