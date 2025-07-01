@@ -14,6 +14,6 @@ git pull origin master
 npm install
 
 # Restart bot pakai PM2
-pm2 restart neoxrbot
+pm2 restart neoxr
 
 echo "✅ Update selesai!"
