@@ -1,5 +1,4 @@
 ## NEOXR-BOT (BETA TEST)
-[![🚀 Deploy ke VPS](https://github.com/Dailylepedia-Grup/neoxr-bot/actions/workflows/deploy.yml/badge.svg)](https://github.com/Dailylepedia-Grup/neoxr-bot/actions/workflows/deploy.yml)
 
 > An implementation of [@neoxr/wb](https://www.npmjs.com/package/@neoxr/wb) which has been optimized to be lightweigth.  
 
@@ -131,6 +130,9 @@ const client = new Baileys({
 - [x] PostgreSQL [Cockroach](https://cockroachlabs.cloud/) (Recommended)
 - [x] PostgreSQL [Aiven](https://aiven.io) ~ Remove ```?sslmode=required```
 - [x] MongoDB [MongoDB](https://www.mongodb.com) ~ [Setup Tutorial](https://youtu.be/-9lfyWz0SdE?si=nmyA6qeBYKbO4R45) (Recommended)
+
+### Deploy
+[![🚀 Deploy ke VPS](https://github.com/Dailylepedia-Grup/neoxr-bot/actions/workflows/deploy.yml/badge.svg)](https://github.com/Dailylepedia-Grup/neoxr-bot/actions/workflows/deploy.yml)
 
 ### Configuration
 
