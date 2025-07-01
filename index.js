@@ -27,11 +27,11 @@ if (major < 20) {
    process.exit(1)
 }
 
-CFonts.say('NEOXR BOT', {
+CFonts.say('DAILYLEPEDIA BOT', {
    font: 'tiny',
    align: 'center',
    colors: ['system']
-}), CFonts.say('Github : https://github.com/neoxr/neoxr-bot', {
+}), CFonts.say('Github : https://github.com/dailylepedia-grup/neoxr-bot', {
    colors: ['system'],
    font: 'console',
    align: 'center'
