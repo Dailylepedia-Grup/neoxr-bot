@@ -1,4 +1,5 @@
 ## NEOXR-BOT (BETA TEST)
+[![🚀 Deploy ke VPS](https://github.com/Dailylepedia-Grup/neoxr-bot/actions/workflows/deploy.yml/badge.svg)](https://github.com/Dailylepedia-Grup/neoxr-bot/actions/workflows/deploy.yml)
 
 > An implementation of [@neoxr/wb](https://www.npmjs.com/package/@neoxr/wb) which has been optimized to be lightweigth.  
 
